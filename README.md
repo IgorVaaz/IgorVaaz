@@ -5,7 +5,7 @@
 
 
 ### Sobre mim
-Sou formado desde 2020 em Ciência da Computação, tenho experiência em desenvolvimento backend. Atualmente estou fazendo uma Pós-Graduação em Especialização JAVA na UTFPR, junto com as formações Java da Alura. E estou em busca de novos desafios!
+Me formei em 2020 em Ciência da Computação, tenho experiência em desenvolvimento backend. Atualmente estou fazendo uma Pós-Graduação em Especialização JAVA na UTFPR, junto com as formações Java da Alura. E estou em busca de novos desafios!
 
 ### Tecnologias que conheço
 
